@@ -59,6 +59,9 @@
 - 4학년  
 원격대학교육의이해 경영전략론 클라우드컴퓨팅 컴파일러구성 딥러닝 빅데이터의이해와활용 성,사랑,사회  
 ---  
+![image](https://github.com/user-attachments/assets/047fa1cb-009e-4ca0-89fa-09d196c3f268)
+
+
 
 ---  
 
